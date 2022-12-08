@@ -2,4 +2,4 @@
 
 Sitio web creado en clase de computación
 
-Link de Sitio webhttps://juniorfabian.github.io/juniorkids/
+Link de Sitio web: https://juniorfabian.github.io/juniorkids/
